@@ -1,0 +1,22 @@
+.computedChallengesContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 3.5rem 0;
+
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #d7d8da;
+
+  font-weight: 500;
+}
+
+.computedChallengesContainer span:first-child {
+  font-weight: 1.25rem;
+}
+
+
+
+.computedChallengesContainer span:last-child {
+    font-weight: 1.5rem;
+}
+
